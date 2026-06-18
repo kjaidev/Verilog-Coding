@@ -1,4 +1,4 @@
-module OneXTwoDEMUX_Structual (y, sel, d);
+module OneXTwoDEMUX_Structural (y, sel, d);
 
 	output [1:0] y;
 	input sel;
