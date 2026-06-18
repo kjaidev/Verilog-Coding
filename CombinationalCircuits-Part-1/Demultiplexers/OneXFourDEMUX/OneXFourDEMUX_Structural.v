@@ -1,4 +1,4 @@
-module OneXFourDEMUX_Structrual (
+module OneXFourDEMUX_Structural (
 
 	output [3:0] y,
 	input [1:0] sel,
